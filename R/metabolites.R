@@ -1,0 +1,19 @@
+#' Mass Spectroscopy Data Set
+#' 
+#' @format Each column represents a mass spectroscopy peak or some molecule identified by the m/z-ratio. Each row is a sample taken from either knockout or wild-type mice. From MSMB textbook.
+#' \describe{
+#'   \item{mz}{num}
+#'   \item{KOGCHUM1}{num}
+#'   \item{KOGCHUM2}{num}
+#'   \item{KOGCHUM3}{num}
+#'   \item{WTGCHUM1}{num}
+#'   \item{WTGCHUM2}{num}
+#'   \item{KORCHUM1}{num}
+#'   \item{KORCHUM2}{num}
+#'   \item{KORCHUM3}{num}
+#'   \item{WTRCHUM1}{num}
+#'   \item{WTRCHUM2}{num}
+#'   \item{WTRCHUM3}{num}
+#' }
+#' @source \url{https://web.stanford.edu/class/bios221/book/}
+"metabolites"
