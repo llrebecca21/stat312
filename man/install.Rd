@@ -7,7 +7,7 @@
 install(install_all = TRUE)
 }
 \arguments{
-\item{install_all}{}
+\item{install_all}{defaults to TRUE to allow the packages to be installed.}
 }
 \value{
 nothing

@@ -1,6 +1,6 @@
 #' function that runs the install.packages function for required libraries
 #'
-#' @param install_all 
+#' @param install_all defaults to TRUE to allow the packages to be installed.
 #'
 #' @return nothing
 #' @export

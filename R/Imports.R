@@ -5,4 +5,5 @@
 #' @import mixtools
 #' @import vegan
 #' @import ape
+#' @import MASS
 NULL

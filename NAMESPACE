@@ -3,6 +3,7 @@
 export(install)
 import("vcd")
 import(HardyWeinberg)
+import(MASS)
 import(ape)
 import(ggplot2)
 import(mixtools)
