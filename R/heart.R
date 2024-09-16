@@ -17,5 +17,5 @@
 #'   \item{ST_Slope}{chr the slope of the peak exercise ST segment Up: upsloping, Flat: flat, Down: downsloping}
 #'   \item{HeartDisease}{int output class 1: heart disease, 0: Normal}
 #' }
-#' @source \url{"https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction"}
+#' @source \url{https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction}
 "heart"
