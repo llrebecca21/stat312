@@ -22,7 +22,7 @@ A Dataframe with 918 observations of heart failure patients.
 }
 }
 \source{
-\url{"https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction"}
+\url{https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction}
 }
 \usage{
 heart
